@@ -1,0 +1,32 @@
+C:\Users\110375\source\repos\Schol project\Schol project\bin\Debug\Schol project.exe.config
+C:\Users\110375\source\repos\Schol project\Schol project\bin\Debug\Schol project.exe
+C:\Users\110375\source\repos\Schol project\Schol project\bin\Debug\Schol project.pdb
+C:\Users\110375\source\repos\Schol project\Schol project\obj\Debug\Schol project.csprojAssemblyReference.cache
+C:\Users\110375\source\repos\Schol project\Schol project\obj\Debug\Schol_project.Form1.resources
+C:\Users\110375\source\repos\Schol project\Schol project\obj\Debug\Schol_project.Properties.Resources.resources
+C:\Users\110375\source\repos\Schol project\Schol project\obj\Debug\Schol project.csproj.GenerateResource.cache
+C:\Users\110375\source\repos\Schol project\Schol project\obj\Debug\Schol project.csproj.CoreCompileInputs.cache
+C:\Users\110375\source\repos\Schol project\Schol project\obj\Debug\Schol project.exe
+C:\Users\110375\source\repos\Schol project\Schol project\obj\Debug\Schol project.pdb
+C:\Users\110375\source\repos\Schol project\Schol project\bin\Debug\Google.Protobuf.dll
+C:\Users\110375\source\repos\Schol project\Schol project\bin\Debug\MySql.Data.dll
+C:\Users\110375\source\repos\Schol project\Schol project\bin\Debug\Google.Protobuf.xml
+C:\Users\110375\source\repos\Schol project\Schol project\bin\Debug\MySql.Data.xml
+C:\Users\110375\source\repos\Schol project\Schol project\obj\Debug\Schol project.csproj.CopyComplete
+C:\svn\Scholarship Project\Schol project\bin\Debug\Schol project.exe.config
+C:\svn\Scholarship Project\Schol project\bin\Debug\Schol project.exe
+C:\svn\Scholarship Project\Schol project\bin\Debug\Schol project.pdb
+C:\svn\Scholarship Project\Schol project\bin\Debug\Google.Protobuf.dll
+C:\svn\Scholarship Project\Schol project\bin\Debug\MySql.Data.dll
+C:\svn\Scholarship Project\Schol project\bin\Debug\Google.Protobuf.xml
+C:\svn\Scholarship Project\Schol project\bin\Debug\MySql.Data.xml
+C:\svn\Scholarship Project\Schol project\obj\Debug\Schol project.csprojAssemblyReference.cache
+C:\svn\Scholarship Project\Schol project\obj\Debug\Schol_project.Form1.resources
+C:\svn\Scholarship Project\Schol project\obj\Debug\Schol_project.Properties.Resources.resources
+C:\svn\Scholarship Project\Schol project\obj\Debug\Schol project.csproj.GenerateResource.cache
+C:\svn\Scholarship Project\Schol project\obj\Debug\Schol project.csproj.CoreCompileInputs.cache
+C:\svn\Scholarship Project\Schol project\obj\Debug\Schol project.csproj.CopyComplete
+C:\svn\Scholarship Project\Schol project\obj\Debug\Schol project.exe
+C:\svn\Scholarship Project\Schol project\obj\Debug\Schol project.pdb
+C:\svnbackup\Scholarship Project\Schol project\obj\Debug\Schol project.exe
+C:\svnbackup\Scholarship Project\Schol project\obj\Debug\Schol project.pdb
